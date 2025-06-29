@@ -26,6 +26,7 @@ Begin creating user stories for: $ARGUMENTS. If no arguements, then ask: "  Tell
    - Similar patterns in codebase
    - Potential integration points
    - What's NOT built yet
+   - Provide real quotes and links to those quotes
 
 ### Phase 3: Targeted Research Phase (Autonomous)
 10. Based on what's NOT in codebase, search for user needs:
