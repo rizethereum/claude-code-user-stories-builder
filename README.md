@@ -275,7 +275,7 @@ Stories feed directly into requirements:
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/claude-user-stories.git
+git clone https://github.com/rizethereum/claude-user-stories.git
 ```
 
 2. Copy commands to Claude:
