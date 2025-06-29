@@ -1,6 +1,6 @@
 # Start User Story Creation
 
-Begin creating user stories for: $ARGUMENTS
+Begin creating user stories for: $ARGUMENTS. If no arguements, then ask: "  Tell me about the feature, problem, or improvement you're considering.  Optional details:  - Target audience (e.g., "young professionals")  - Competitors (e.g., "like Notion but simpler")
 
 ## Enhanced Flow:
 
